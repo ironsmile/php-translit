@@ -1,5 +1,5 @@
 {
-    "name": "ashtokalo/php-translit",
+    "name": "ironsmile/php-translit",
     "type": "library",
     "keywords": ["transliteration", "romanization", "latinization", "translit"],
     "description": "PHP library to convert text from one script to another.",
