@@ -1,5 +1,7 @@
 <?php
 
+namespace Translit;
+
 /**
  * Transliteration data for Ukrainian (UK)
  *
